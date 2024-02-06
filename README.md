@@ -15,3 +15,7 @@ Funcionalidades:
 -  Feedback indicando se a tentativa está correta ou não.
 
 -  Contagem do número de tentativas para acertar o número secreto.
+
+Link de acesso ao jogo:
+[Adivinhe o número secreto](https://jogo-blush-nine.vercel.app/)
+
