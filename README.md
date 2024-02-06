@@ -1,6 +1,7 @@
 # Adivinha-o-JavaScript
 
 Descobridor do Número Secreto em JavaScript
+
 Descrição
 Este é um projeto simples desenvolvido em JavaScript como parte do meu processo de aprendizado. O objetivo é criar um jogo interativo onde o usuário tenta adivinhar um número secreto escolhido aleatoriamente.
 
