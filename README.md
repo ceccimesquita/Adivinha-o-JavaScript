@@ -1,4 +1,4 @@
-# Adivinha-o-JavaScript
+# Adivinha-JavaScript
 
 Descobridor do Número Secreto em JavaScript
 
