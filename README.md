@@ -1,21 +1,23 @@
-# Adivinha-JavaScript
+# 🎯 Adivinha-JavaScript
 
-Descobridor do Número Secreto em JavaScript
+## 🕵️‍♂️ Descobridor do Número Secreto em JavaScript
 
-Descrição:
+### 📖 Descrição:
 
 Este é um projeto simples desenvolvido em JavaScript como parte do meu processo de aprendizado. O objetivo é criar um jogo interativo onde o usuário tenta adivinhar um número secreto escolhido aleatoriamente.
 
-Funcionalidades:
+### ✨ Funcionalidades:
 
--  Geração aleatória de um número secreto.
+- 🔢 **Geração aleatória de um número secreto:** O jogo seleciona um número aleatório para o usuário tentar adivinhar.
+  
+- 🖥️ **Interface interativa:** O usuário pode inserir suas tentativas e receber feedback imediato.
+  
+- ❌ **Feedback:** O jogo indica se a tentativa do usuário está correta ou não, ajudando-o a se aproximar da resposta.
+  
+- 📊 **Contagem de tentativas:** O jogo mantém o registro de quantas tentativas foram feitas até que o número secreto seja descoberto.
 
--  Interface interativa para o usuário inserir suas tentativas.
+### 🔗 Link para o Jogo:
 
--  Feedback indicando se a tentativa está correta ou não.
-
--  Contagem do número de tentativas para acertar o número secreto.
-
-Link de acesso ao jogo:
 [Adivinhe o número secreto](https://jogo-blush-nine.vercel.app/)
+
 
